@@ -78,6 +78,7 @@ export const Toplist = styled.ul`
       font-size: 12px;
       font-weight: bold;
     }
+
     strong {
       color: #667580;
       font-size: 18px;

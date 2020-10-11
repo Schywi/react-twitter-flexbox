@@ -96,30 +96,30 @@ const Dashboard: React.FC = () => {
           <Profile>
             <Info>
               <img src={avatarIcon} alt="" />
-              <h1>Diego Fernandes</h1>
+              <h1>Lucas Miranda</h1>
               <span>@Exibit</span>
-              <p>
-                Web, Design Partner/UI Designer @spade_be Musician in
-                @dashboxmusic
-              </p>
+              <p>Student at SENAI FIEMG @LetStudy</p>
             </Info>
 
             <InfoList>
               <li>
                 <img src={placeIcon} alt="Place icon" />
-                Namur,Belgium
+                Belo Horizonte, Brazil
               </li>
               <li>
                 <img src={urlIcon} alt="Url icon" />
-                exibit.be
+
+                <a href="https://schywi.github.io/personal-website/projects">
+                  personal-site
+                </a>
               </li>
               <li>
                 <img src={joinedIcon} alt="Joined icon" />
-                Joined June 2007
+                Joined April 2020
               </li>
               <li>
                 <img src={bornIcon} alt="Born icon" />
-                Born the 20th of June 1978
+                Born the 12th of April 2001
               </li>
             </InfoList>
 

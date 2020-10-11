@@ -40,6 +40,10 @@ export const InfoList = styled.ul`
     color: #657786;
     margin-top: 5px;
 
+    a {
+      font-size: inherit;
+      color: inherit;
+    }
     &:first-child {
       margin: 0;
     }
